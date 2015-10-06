@@ -1,2 +1,3 @@
-# requirements
-requirements coming from the cyclone use cases
+# Use Case Requirements
+
+A collection of requirements coming from representative cloud applications. 
